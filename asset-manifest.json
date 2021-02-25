@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://synw1024.github.io/static/css/main.b35340f4.chunk.css",
-    "main.js": "https://synw1024.github.io/static/js/main.5df4047f.chunk.js",
-    "main.js.map": "https://synw1024.github.io/static/js/main.5df4047f.chunk.js.map",
+    "main.js": "https://synw1024.github.io/static/js/main.23d335ab.chunk.js",
+    "main.js.map": "https://synw1024.github.io/static/js/main.23d335ab.chunk.js.map",
     "runtime-main.js": "https://synw1024.github.io/static/js/runtime-main.ac33d1f5.js",
     "runtime-main.js.map": "https://synw1024.github.io/static/js/runtime-main.ac33d1f5.js.map",
     "static/css/2.1e58ee36.chunk.css": "https://synw1024.github.io/static/css/2.1e58ee36.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1e58ee36.chunk.css",
     "static/js/2.f739468d.chunk.js",
     "static/css/main.b35340f4.chunk.css",
-    "static/js/main.5df4047f.chunk.js"
+    "static/js/main.23d335ab.chunk.js"
   ]
 }
